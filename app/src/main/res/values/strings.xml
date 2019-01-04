@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsViews</string>
+    <string name="initial_Intro1">Hi</string>
+    <string name="initial_Intro2">This is a story of Mohammad Mohibul Hasan,
+        Who is developed android application from
+    a small company named "Deshi Systems Ltd".</string>
+    <string name="info2"> "I'm learning android development from last 15th months"</string>
+    <string name="info3">in development phase ,pleasure cross its level
+        when myself stucked in a problem and somehow i over come this situation</string>
+</resources>
